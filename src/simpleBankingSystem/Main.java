@@ -28,7 +28,7 @@ public class Main {
 			menu();
 			choix = sc.nextInt();
 		}
-		System.out.println("Bye!");
+		System.out.println("\nBye!");
 	}
 	
 	static void menu() {
